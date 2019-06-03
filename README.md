@@ -29,11 +29,11 @@ The code of a multicodec is usually encoded as unsigned varint as defined by [mu
 
 ## Examples
 
-Multicodec is used in various [Multiformats](https://github.com/multiformats/multiformats). In [Multihash](https://github.com/multiformats/multihash) it is used to identify the hashes, in the machine-readable [Multiaddr](https://github.com/multiformats/multiaddr) to identify the protocol.
+Multicodec is used in various [Multiformats](https://github.com/multiformats/multiformats). In [Multihash](https://github.com/multiformats/multihash) it is used to identify the hashes, in the machine-readable [Multiaddr](https://github.com/multiformats/multiaddr) to identify components such as IP addresses, domain names, identities, etc.
 
 ## Multicodec table
 
-As multicodecs are used across several multiformats, there's now a single table for all of them which can be fount at [table.csv](/table.csv) inside this repo. There's also a sortable [viewer](https://ipfs.io/ipfs/QmXec1jjwzxWJoNbxQF5KffL8q6hFXm9QwUGaa3wKGk6dT/#title=Multicodecs&src=https://raw.githubusercontent.com/multiformats/multicodec/master/table.csv).
+Find the canonical table of multicodecs at [table.csv](/table.csv). There's also a sortable [viewer](https://ipfs.io/ipfs/QmXec1jjwzxWJoNbxQF5KffL8q6hFXm9QwUGaa3wKGk6dT/#title=Multicodecs&src=https://raw.githubusercontent.com/multiformats/multicodec/master/table.csv).
 
 ### Adding new multicodecs to the table
 
