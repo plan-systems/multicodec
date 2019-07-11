@@ -104,7 +104,7 @@ plan-entry-info-pb,             plan,           0x3054,
 plan-block-pb,                  plan,           0x3055,
 plan-link-pb,                   plan,           0x3056,
 plan-uri,                       plan,           0x3057,         See github.com/plan-protobufs/pkg/plan/plan.proto
-plan-vertex=set-pb              plan,           0x3058,
+plan-vertex-set-pb              plan,           0x3058,
 blake2b-8,                      multihash,      0xb201,         Blake2b consists of 64 output lengths that give different hashes
 blake2b-16,                     multihash,      0xb202,
 blake2b-24,                     multihash,      0xb203,
